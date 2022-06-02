@@ -22,4 +22,4 @@ We used a 4x4 keypad to move a servo motor 90 degrees
 
 ### Contributors
 
-1. David Kiprop [](https://github.com/ropsa69)
+1. [David Kiprop](https://github.com/ropsa69)
